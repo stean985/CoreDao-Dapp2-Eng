@@ -6,13 +6,13 @@ const Modal = ({ isOpen, onClose, onClaim, rewardAmount }) => {
   return (
     <div className="modal-overlay">
       <div className="modal-content">
-        <h2>Réclamer la récompense</h2>
-        <p>Le montant de votre récompense est de: {rewardAmount} RECOMPENSE</p>
+        <h2>Claim Reward</h2>
+        <p>Your reward amount is: {rewardAmount} REWARD</p>
         <button onClick={onClaim} className="btn-primary">
-          Réclamer
+          Claim
         </button>
         <button onClick={onClose} className="btn-secondary">
-          Fermer
+          Close
         </button>
       </div>
     </div>
