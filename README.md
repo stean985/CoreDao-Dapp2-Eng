@@ -17,6 +17,6 @@ Reward Token: 0xDfDf8a69042De6422E6B50A838DC26Bb57Ec7730
 Staking Dapp: 0xBb9eD6A08C75a42354807Ab252CE28B812627CfE
 
 
-7- avigate to Frontend folder : cd .\Frontend
+7- navigate to Frontend folder : cd .\Frontend
 8- install dependencies : npm install
 9- test locally with : npm run start
