@@ -19,4 +19,4 @@ Staking Dapp: 0xBb9eD6A08C75a42354807Ab252CE28B812627CfE
 
 7- avigate to Frontend folder : cd .\Frontend
 8- install dependencies : npm install
-9- test locally with : npw run start
+9- test locally with : npm run start
